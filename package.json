@@ -1,0 +1,17 @@
+{
+  "name": "car-show-room-website-html-css-js-master",
+  "version": "1.0.0",
+  "description": "This is a car buying and selling website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0",
+    "nodemon": "^2.0.20"
+  }
+}
